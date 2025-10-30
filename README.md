@@ -85,5 +85,6 @@ It demonstrates the use of **semantic HTML**, **responsive CSS**, and **Font Awe
 ---
 ## 👩‍💻 Author
 
-Nancy Sangani
+Nancy Sangani  
 🎓 B.Tech CSE Student | 💻 Frontend Developer | 🎨 Creative Designer
+
